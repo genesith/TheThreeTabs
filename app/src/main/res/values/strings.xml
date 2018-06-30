@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">The Three Tabs</string>
     <string name="one">Welcome to the First Tab!!</string>
+    <string name="test">example of something</string>
+    <string name="testtwo">example of something</string>
+
 </resources>
